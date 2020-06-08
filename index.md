@@ -4,7 +4,7 @@ Halo Dunia! Nama saya Shafiya Ayu Adzhani (1806235845)
 
 Situs ini dibuat untuk mata kuliah Sistem Operasi (CSGE602055) Semester 2019/2020 Genap. Situs ini menandakan untuk pertama kalinya saya belajar menggunakan Jekyll.
 
-Pada situs ini, Anda dapat melihat beberapa hal, terutama mengenai mata kuliah Sistem Operasi. Anda dapat melihat tautan-tautan berguna mengenai Sistem Operasi pada [URLs](urls.md)
+Pada situs ini, Anda dapat melihat beberapa hal, terutama mengenai mata kuliah Sistem Operasi. Anda dapat melihat tautan-tautan berguna mengenai Sistem Operasi pada [URLs](url.md)
 
 ### Kontak
 
