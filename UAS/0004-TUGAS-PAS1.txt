@@ -1,0 +1,37 @@
+Script started on Tue 09 Jun 2020 01:01:45 AM WIB
+shafiya.ayu@badak:~/UAS$ PS1="$ "
+$ echo $GitHubUser
+adzshaf
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ eval $PSTAMP
+200609-010210-d87e-UAS/>
+$ PS1="\$(eval \$PSTAMP)"
+200609-010226-aba7-UAS/> echo -e $CEKSAYA
+adzshaf ZCZCSCRIPTSTART 200607-044239 adzshaf
+adzshaf adzshaf 200607-044308-173c-shafiya.ayu/ 200607-044308 SEQOK SUMOK 173c4cc6
+adzshaf adzshaf 200607-044327-5eaf-shafiya.ayu/ 200607-044327 SEQOK SUMOK 5eaff2b2
+adzshaf adzshaf 200607-044329-05d8-shafiya.ayu/ 200607-044329 SEQOK SUMOK 05d8a69f
+adzshaf adzshaf 200607-044335-10f9-shafiya.ayu/ 200607-044335 SEQOK SUMOK 10f933bb
+adzshaf ZCZCSCRIPTSTOP 200607-044338 SEQOK
+
+200609-010234-f1a2-UAS/> echo -e $CEKSEBELA1
+adzshaf ZCZCSCRIPTSTART 200601-111617 agit-ui
+adzshaf agit-ui 200601-111744-c6ea-muhamad.agung82/ 200601-111744 SEQOK SUMOK c6eafff3
+adzshaf agit-ui 200601-112225-40b2-muhamad.agung82/ 200601-112225 SEQOK SUMOK 40b2a3b3
+adzshaf agit-ui 200601-112229-ef73-muhamad.agung82/ 200601-112229 SEQOK SUMOK ef7363ae
+adzshaf agit-ui 200601-112245-79bd-muhamad.agung82/ 200601-112245 SEQOK SUMOK 79bda0bd
+adzshaf ZCZCSCRIPTSTOP 200601-112454 SEQOK
+
+200609-010250-3eab-UAS/> echo -e $CEKSEBELA2
+adzshaf ZCZCSCRIPTSTART 200604-212030 ahmadirfaan1
+adzshaf ahmadirfaan1 200604-212050-1753-UAS/ 200604-212050 SEQOK SUMOK 1753735e
+adzshaf ahmadirfaan1 200604-212054-7052-UAS/ 200604-212054 SEQOK SUMOK 7052688a
+adzshaf ahmadirfaan1 200604-212101-d62c-UAS/ 200604-212101 SEQOK SUMOK d62c3fa5
+adzshaf ahmadirfaan1 200604-212107-6b34-UAS/ 200604-212107 SEQOK SUMOK 6b3482a4
+adzshaf ZCZCSCRIPTSTOP 200604-212122 SEQOK
+
+200609-010257-f369-UAS/> exit
+exit
+
+Script done on Tue 09 Jun 2020 01:03:05 AM WIB
