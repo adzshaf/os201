@@ -35,3 +35,4 @@ adzshaf ZCZCSCRIPTSTART 200604-212030
 exit
 
 Script done on Tue 09 Jun 2020 01:03:05 AM WIB
+

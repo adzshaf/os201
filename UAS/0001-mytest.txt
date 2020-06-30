@@ -24,3 +24,4 @@ sub   2048R/6DD0BE6D 2020-02-19 [expires: 2023-06-06]
 exit
 
 Script done on Sun 07 Jun 2020 04:43:38 AM WIB
+
