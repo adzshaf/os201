@@ -1,0 +1,66 @@
+REV04 MON Jul 27  23:01:35 WITA 2020
+
+1. Buat sebuah catatan singkat pelaksanaan mata ajar OS selama semester ini.
+============================================================================
+Pelaksanaan pembelajaran mata kuliah Operation System (OS) semester ini dilakukan dengan 2 metode, yaitu:
+1) Melalui pertemuan tatap muka seperti proses pembelajaran pada umumnya (sebelum UTS(
+2) Metode Online atau pembelajaran jarak jauh (PJJ) yang dimulai setelah UTS akibat munculnya pandemi COVID-19.
+
+Seluruh materi, informasi, dan latihan soal untuk mata kuliah OS dapat diakses di https://os.vlsm.org/. Kemudian, disediakan demo untuk memfasilitasi serta mendukung para mahasiswa untuk mempelajari setiap materi. Demo biasanya berupa program yang dapat dijalankan oleh mahasiswa. Setiap minggu, mahasiswa diharapkan untuk mempraktekkan demo.  Selain mengerjakan demo yang disediakan, mahasiswa juga diwajibkan untuk membuat sebuah memo berkala untuk mencatat apa saja yang telah dipelajari untuk setiap minggunya. Memo dapat membantu mahasiswa kembali memahami materi ketika persiapan ujian. Selain itu, dibuat pula grup WhatsApp untuk memperlancar komunikasi dengan dosen serta menyimpan dokumentasi hasil pembelajaran di kelas (foto papan tulis). 
+
+Untuk pembelajaran pada masa PJJ, pertemuan kelas yang biasanya dilakukan 2 kali seminggu diganti dengan diskusi pada forum di SCELE, sesuai dengan topik mingguan. Dosen juga menyediakan video pembelajaran online untuk memperdalam pemahaman mahasiswa. 
+
+2. Bandingkan pelaksanaan pengajaran sebelum dan sesudah UTS.
+===========================================================================
+Sebelum UTS:
+- Pelaksanaan pengajaran dilakukan secara tatap muka di kelas
+- Membuat Memo tiap minggunya yang berisi materi pengajaran pada minggu itu dan di scan
+- Melakukan tanya jawab di dalam kelas mengenai demo atau materi lainnya
+
+Sesudah UTS:
+- Pelaksanaan pengajaran dilakukan secara online dan melalui video yang sudah tertera pada SCELE
+- Melakukan tanya jawab pada forum diskusi SCELE.
+
+3. Bandingkan pelaksanaan UTS OS dengan UTS lainnya.
+===========================================================================
+UTS OS
+- Soal terdiri dari isian dan esai
+- Pelaksanaan ujian berbasis kertas
+- Bila dibandingkan dengan UTS OS tahun lalu, tahun ini lebih banyak soal dengan tipe programming. Selain itu, tidak ada soal tipe B/S atau PG seperti soal - soal UTS tahun lalu
+- Topik beragam, sesuai dengan topik minggu-minggu sebelum UTS
+
+UTS lainnya
+> UTS Basis Data
+Soal mata kuliah Basis Data terdiri dari pilihan ganda dan esai. Pilihan ganda dikerjakan di SCELE. Untuk esai, mahasiswa mengerjakan dari soal yang sudah diunggah dan menjawabnya di kertas. Kemudian, mahasiswa memfoto dan menggunggah jawaban ke SCELE.
+> UTS Analisis Numerik
+Tipe soal adalah essay dan membuat program. Soal essay dikelompokkan dengan topik masing-masing dengan tiap kelompok soal terdiri atas banyak soal. Mahasiswa dibebaskan memilih soal namun diwajibkan untuk mengisi minimal satu dari setiap topik yang diujikan dan diperhatikan agar dapat mencapai 100 poin. Jawaban difoto dan diunggah ke SCELE.
+> UTS Advanced Programming
+Terdiri dari pilihan ganda, isian, dan mengedit program melalui GitLab. Pilihan ganda dan isian dilakukan di SCELE. Untuk sesi edit program, terdiri dari 3 sesi waktu.
+> UTS Teori Bahasa dan Automata
+Dilakukan melalui Aren. Soal berbentuk uraian. Mahasiswa melakukan scan dan mengunggahnya ke server Aren (aren.cs.ui.ac.id/tba).
+
+
+4. Bandingkan pelaksanaan UAS OS dengan UAS lainnya.
+===========================================================================
+UAS OS:
+- Dilaksanakan dalam beberapa tahap (PAS0-PAS5). Dimulai tanggal 8 Juni sampai 7 Juli 2020.
+- Setiap tahapnya memiliki waktu yang sangat panjang, dibandingkan dengan UAS mata kuliah lainnya (tidak hanya 2 jam)
+- Pengumuman terkait ujian diberikan melalui grup Whatsapp setiap harinya. Tanya jawab dilakukan di SCELE.
+- Metode pengumpulan yaitu dengan push file diperlukan ke repo GitHub.
+- Pengisian absen dilakukan melalui GitHub.
+- Ada beberapa tahap yang diharuskan untuk dikerjakan secara berkelompok. Pembentukkan kelompok dilakukan melalui GitHub.
+- Soal diunggah di GitHub dan harus di-decrypt terlebih dahulu.
+- Sebagian besar file yang dipush harus dienkripsi terlebih dahulu. Beberapa file juga ada yang diminta untuk ditandatangani secara digital saat enkripsi.  
+- Agar file yang diunggah ke repo tidak dapat dilihat oleh selain orang yang berhak untuk melihat, key enkripsi hanya dimiliki oleh peserta ujian pembuat file dan dosen pengampu ujian
+
+UAS lainnya:
+> UAS Basis Data
+Tipe soal adalah pilihan ganda sebanyak 60 soal dan essay. Dilaksanakan dengan total 3 jam pengerjaan pada SCELE. Untuk soal pilihan ganda, nilai dapat langsung diketahui setelah submit.
+> UAS Analisis Numerik
+Tipe soal adalah essay dan membuat program. Soal essay dikelompokkan dengan topik masing-masing dengan tiap kelompok soal terdiri atas banyak soal. Mahasiswa bebas memilih soal namun diusahakan total poin yang diperoleh adalah 100. Soal dikerjakan dalam waktu 3 jam.
+> UAS Teori Bahasa dan Automata
+Pengerjaan menggunakan server Aren. Soal pembuatan mesin (PDA atau Turing Machine) akan diterima oleh penilai otomatis yang hasilnya akan keluar setelah ujian selesai, sedangkan untuk soalessay dikerjakan dengan mengunggah hasil scan ke tempat yang sudah disediakan.
+> UAS Advanced Programming
+Tipe soal adalah pilihan ganda, essay, dan melengkapi program. Ketiga tiganya dilaksanakan dengan menggunakan SCELE dengan total waktu pengerjaan 3 jam.
+
+
