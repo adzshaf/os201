@@ -1,0 +1,80 @@
+REV01 TUE Jul 28  22:01:35 WITA 2020
+
+1. Buat catatan tambahan untuk pelaksanaan
+===========================================
+a. Persiapan UAS
+   > Kendala:
+	- Mahasiswa tidak tahu cara melakukan beberapa perintah dari soal
+        - Lupa key dan cara enkripsi
+	- Kesulitan dalam memahami beberapa perintah yang diberikan soal
+   > Kelebihan:
+	- Langkah-langkah dijelaskan dan mudah dipahami
+	- Bobot nilai yang diberikan cukup
+	- Mudah dilakukan karena dijelaskan secara detail di SCELE
+	- Waktu pengerjaan lama
+	- Terdapat log untuk mengecek apakah sudah benar atau belum
+   > Kekurangan:
+	- Tidak tahu bahwa copy paste ke GitHub bisa mengakibatkan error
+	- Tidak dijelaskan tujuan persiapan dan gambaran pelaksanaan UAS
+
+b. Tahap 1
+   > Kendala:
+	- Masih belum terbiasa menggunakan terminal pada linux sehingga menghambat pengerjaan
+	- Pengerjaan soal membutuhkan kemampuan pembuatan script
+   > Kelebihan:
+	- Dokumentasi mengenai pengerjaan soal sangat jelas
+	- Diberikan contoh yang benar (repositori cbkadal)
+	- Menjadi tahu bagaimana mengatur GitHub Pages dan membuat URL baru
+   > Kekurangan:
+	- Kurang penjelasan mengenai soal, seperti maksud dari SEQNO dan SUMNO.
+
+c. Tahap 2
+   > Kendala:
+	- Lebih rumit dibandingkan tahap 1
+	- Implementasi mmap untuk multithreading tidak ada contohnya pada demo
+   > Kelebihan:
+	- Menjadi lebih paham bagaimana semafor bekerja untuk menghindari race condition dalam mengakses memori yang sama
+	- Menjadi lebih paham pengunaan semafor biasa dan semafor untuk mutex
+	- Menjadi tahu bagaimana memetakan sebuah file ke memory di C dengan mmap
+   > Kekurangan:
+	- Penjelasan soal kurang jelas. Lebih jelas jika mengikuti contoh program
+
+d. Tahap 3
+   > Kendala:
+	- Penilaian tidak dijabarkan
+	- Hanya beberapa orang yang mengerti dan juga aktif dalam kelompok karena sudah dikelompokkan berdasarkan status 
+	- Banyak instruksi dan file yang bersifat ambigu sehingga menyulitkan peserta ujian
+	- Kelompok yang kurang bisa diajak kerja sama karena semuanya tidak ada yang memahami materi sehingga perlu lebih ekstra bertanya-tanya kelompok lain untuk memahami soal
+   > Kelebihan:
+	- Mahasiswa sudah terbiasa dengan tahap 2. Karena mirip dengan tahap 2, maka sudah familiar sehingga lebih mudah untuk mengerjakan tahap 3.
+	- Mahasiswa dengan status TERM3 deadline waktunya panjang dan soalnya tidak beda jauh dengan tugas 2
+	- Tugas dikerjakan secara berkelompok
+	- Mendapatkan ilmu yang lebih dalam lagi mengenai semafor
+   > Kekurangan:
+	- Perintah/ revisi soal yang keluar saat berjalannya ujian membingungkan
+	- Ada bagian yang kurang ditekankan, seperti penamaan file
+	- Hanya ada satu file yang bisa diedit sehingga sulit dalam pembagian tugas dengan anggota lain
+	- Keterangan soal mengenai soal dapat dikerjakan sesuai kreativitas masing-masing menimbulkan perdebatan
+
+e. Tahap 4
+   > Kendala:
+	- Beberapa mahasiswa belum mengerti mengenai materi yang ditanyakan
+	- Terdapat masalah koordinasi revisi sehingga ada perbedaan kode
+	- File-file di folder uas-pribadi dan uas-bersama cukup membingungkan
+   > Kelebihan:
+	- Menjadi mengerti cara menggunakan synchronous semafor
+
+f. Tahap 5
+   > Kendala:
+	- Kurang paham mengenai FUSE
+	- Kurang mengerti perintah soal dan sulit paham berkas-berkas yang diberikan
+   > Kelebihan:
+	- Mahasiswa menjadi lebih tahu salah satu implementasi FUSE
+	- Terdapat dokumentasi mengenai soal
+   > Kekurangan:
+	- Dokumentasi soal sulit dimengerti
+	- Kurang penjelasan teknis
+	- Waktu pengerjaan singkat
+	- Sumber belajar hanya materi
+	- Tugas tidak lagi dikerjakan secara berkelompok
+
