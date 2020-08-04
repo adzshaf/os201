@@ -1,3 +1,4 @@
+REV06 WED Aug 5   05:24:01 WITA 2020
 REV05 TUE Aug 4   23:12:43 WITA 2020
 REV04 MON Aug 3   21:45:21 WITA 2020
 REV03 THU Jul 30  22:01:22 WITA 2020
@@ -139,11 +140,75 @@ b. Perangkat pendukung
    Peserta hanya mengetahui fungsi serta cara memakai Git dan GitHub. Untuk perangkat pendukung scripting, GnuPG, dan SHA1SUM peserta tidak familiar sehingga harus mempelajari terlebih dahulu. Mayoritas peserta hanya mengikuti langkah-langkah yang diberikan, namun tidak mengerti maksud dari langkah-langkah tersebut. 
 
 c. Problem
-   - MS WIndows
-     Peserta tidak biasa dalam penggunaan sistem di Badak. Oleh karena itu, peserta banyak yang melakukan di media lain yang memiliki format teks berbeda dengan sistem di Badak. 
-   - GitHub
-     Pada saat melakukan push, terkadang berbarengan dengan orang lain sehingga harus berulang ulang melakukan pull dari master dan kembali melakukan push. 
-   - GitHub Pages
-     Peserta belum terbiasa membuat GitHub Pages, sehingga harus melihat dokumentasi terlebih dahulu.
+- MS Windows
+  Peserta tidak biasa dalam penggunaan sistem di Badak. Oleh karena itu, peserta banyak yang melakukan di media lain yang memiliki format teks berbeda dengan sistem di Badak. Beberapa peserta juga baru mengetahui terdapat perbedaan line break antara CR LF, LF, dan CR.
 
+- GitHub
+  Pada saat melakukan push, terkadang berbarengan dengan orang lain sehingga harus berulang ulang melakukan pull dari master dan kembali melakukan push. 
+
+- GitHub Pages
+  Peserta belum terbiasa membuat GitHub Pages, sehingga harus melihat dokumentasi terlebih dahulu.
+
+- WhatsApp Group
+  • Peserta tidak dapat membedakan pesan mana yang dapat didiskusikan di WhatsApp group atau menggunakan SCELE.
+  • Peserta tidak terlalu sering mengecek grup, sehingga bisa terlewatkan informasi penting ataupun dokumentasi pengerjaan soal ujian sebelumnya yang biasa dibahas di kelas 
+
+- W00 - W05
+  Peserta sungkan untuk bertanya mengenai topik pada minggu itu. Peserta akan mengalami kesulitan jika tidak belajar sebelum masuk kelas.
+
+- UTS
+  UTS pada tahun ini lebih banyak programmingnya dibandingkan teori, sehingga perlu dipersiapkan dalam memahami dan membuat kodingan. Selain itu, terdapat juga soal teori mengenai bacaan yang sudah dilampirkan dosen pengampu sebelumnya.
+
+- Study From Home
+  • Peserta harus belajar lebih keras lagi mengingat tidak dapat dilakukan pembelajaran tatap muka. 
+  • Peserta terkadang tidak disiplin dalam mempelajari OS sesuai bobot SKS-nya.
+  • Terkadang peserta terlewatkan dalam mengisi forum. Harus diberitahu terlebih dahulu oleh peserta lain.
+
+- YouTube
+  Materi dapat dimengerti dengan mudah, namun kurang banyak contoh yang diberikan.
+
+- GitHub Page
+  Peserta kebanyakan belum mengetahui tentang pemakaian GitHub Page. Oleh karena itu, harus bolak-balik membaca dokumentasi. Selain itu, karena secara default GitHub Page menggunakan Jekyll, peserta juga harus memahami mengenai penggunaan Jekyll.
+
+- GNUPG
+  • Peserta terkadang lupa apakah public key nya masih berfungsi atau tidak.
+  • Jika key sudah expired, peserta lupa command untuk generate key baru.
+  • Peserta kewalahan mengingat banyak command gpg
+  • Peserta tidak terbiasa memahami enkripsi dengan key dan armor
+  • Peserta belum memahami perbedaan enkripsi simetrik dan asimetrik
+  • Peserta lupa akan perbedaan enkripsi dengan/tanpa tanda tangan.
+  • Peserta belum memahami perbedaan jenis tanda tangan antara CLEARSIGN, DETACH. dst.
+
+- Zoom
+  • Zoom dilakukan pada malam hari dengan asumsi semua peserta sudah tidak ada kegiatan lagi pada malam hari sehingga dapat mengikuti sesi Zoom
+  • Beberapa peserta memiliki koneksi internet yang tidak memadai sehingga kesulitan untuk mengikuti sesi Zoom
+  • Akan lebih baik jika sebelumnya pembelajaran OS tiap minggunya dilakukan secara sinkronus dengan menggunakan Zoom, sehingga pembelajaran peserta lebih on track
+
+- Email
+  • Tanya jawab disarankan dilakukan di SCELE sehingga semua peserta dapat melihat, namun ada beberapa peserta yang kurang nyaman jika bertanya di SCELE
+
+- Scripting
+  • Peserta sebelumnya tidak memahami command-command pada proses scripting
+  • Jika peserta melakukan kesalahan di tengah proses scripting, harus mengulang lagi dari awal
+
+- OUTSIDE
+  • Peserta lebih memilih untuk membuat folder terpisah dari repo "os201" dibanding membuat folder baru OUTSIDE pada "os201" karena beberapa peserta suka menggunakan "git add ." yang akan mempush hasil pekerjaan pada folder OUTSiDE.
+  • Penggunaan folder OUTSIDE tidak ditekankan pada instruksi pengerjaan sehingga dirasa kurang penting
+
+- Akun GitHub os201 Bersama
+  • Peserta dapat mengisi absen, membuat kelompok, mencoba sandbox pada repo os201 bersama
+  • Karena pengerjaan dilakukan bersama-sama pada satu repo, maka peserta akan sering mengalami conflict ketika mempush pekerjaannya ke repo os201 bersama
+
+- SHA1SUM dan SHA1SUM.asc
+  • Peserta terkadang lupa command untuk generate SHA1SUM dan SHA1SUM.asc
+  • Peserta baru mengetahui bahwa jika ada perubahaan file pada direktori pengerjaan, maka SHA1SUM dan SHA1SUM.asc juga harus digenerate ulang.
+  • Peserta kadang lupa memverifikasi apakah SHA1SUM dan SHA1SUM.asc dapat bekerja dengan baik
+
+- Race Condition
+  • Peserta sering mengalami conflict pada file absen ketika mengisi absen pada repo os201 bersama
+
+- Absen
+  • Peserta sering mengalami conflict pada file absen ketika mengisi absen pada repo os201 bersama
+  • Peserta terkadang ketika absen malah mengubah absen peserta lain tanpa mengeceknya terlebih dahulu
+  • Peserta seringkali lupa untuk mengecek apakah dirinya sudah terabsen pada file absen
 
