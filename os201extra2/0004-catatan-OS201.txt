@@ -1,3 +1,4 @@
+REV07 WED Aug 5   14:41:00 WITA 2020
 REV06 WED Aug 5   05:24:01 WITA 2020
 REV05 TUE Aug 4   23:12:43 WITA 2020
 REV04 MON Aug 3   21:45:21 WITA 2020
@@ -210,5 +211,77 @@ c. Problem
 - Absen
   • Peserta sering mengalami conflict pada file absen ketika mengisi absen pada repo os201 bersama
   • Peserta terkadang ketika absen malah mengubah absen peserta lain tanpa mengeceknya terlebih dahulu
-  • Peserta seringkali lupa untuk mengecek apakah dirinya sudah terabsen pada file absen
+  • Peserta seringkali lupa untuk mengecek apakah dirinya sudah terabsen pada file abse
+  • Menjawab mengenai peserta yang lupa absen sampai semester mau berakhir, biasanya peserta tersebut tidak mengecek SCELE selama pelaksanaan PJJ berjalan setiap minggunya. Sehingga ia tidak tahu bahwa harus mengisi absen
 
+- Persiapan UAS
+  • Persiapan UAS dijelaskan secara detail pada SCELE, peserta dapat mengikuti dengan baik
+  • Beberapa peserta lupa jika keynya masih berfungsi atau tidak
+  • Peserta lupa cara melakukan enkripsi, namun sudah dijelaskan commandnya secara baik di thread SCELE
+  • Peserta belum terbiasa melakukan perekaman script
+    • Untuk delay, peserta lupa jika ada delay pada PS1
+    • Harus mengulangi perekaman script dari awal jika terdapat kesalahan ketika merekam script
+    • Peserta tidak tahu bahwa akan ada karakter tambahan muncul jika melakukan copy (CTRL+C) dan paste (CTRL+V) pada script
+  • Peserta belum terbiasa dengan memasang tambahan halaman pada GitHub Pages
+  • Terdapat peserta yang kurang teliti dalam penamaan file sehingga akan tercatat oleh script bahwa dia tidak mengumpulkan. Solusinya sebaiknya dicek terlebih dahulu sebelum deadline
+
+- UAS Tahap 1
+  • Peserta tidak mengetahui bahwa tujuan utama UAS tahap 1 adalah agar memahami proses UAS, seharusnya disebutkan tujuannya terlebih dahulu
+  • Untuk pemeriksaan cek SEBELA, awalnya peserta belum tahu apa artinya SEQNO atau SEQOK dan SUMOK atau SUMNO
+  • Script milik tetangga tidak dimulai dengan "Script started on .... " sehingga harus memberi tahu tetangga untuk membenarkannya 
+  • Peserta mengira pengecekan cek SEBELA hanya bisa dilakukan dengan pembuatan script, namun ternyata diperbolehkan untuk mengecek manual
+  • Peserta terkadang lupa untuk memverifikasi apakah hasil enkripsi dama dengan aslinya
+  • Peserta baru memahami mengenai SHA1SUM dan SHA1SUM.asc, terkadang ada yang lupa jika file pada direktori berubah, harus dilakukan pembuatan SHA1SUM dan SHA1SUM.asc kembali
+  • Jika kebingungan, peserta akan bertanya ke peserta lainnya. Namun, jika instruksi dirasa kurang jelas, maka terdapat peserta yang menanyakan di forum SCELE
+
+- UAS Tahap 2
+  • Pembentukan kelompok dilakukan dengan sistem bergiliran, peserta kebingungan dengan sistem pembentukan kelompok
+  • Terdapat perubahan kapasitas anggota kelompok yang sebelumnya tidak ditentukan, menjadi 6 saja. Namun, karena jumlah kelompok tidak dapat menampung semuanya, maka dibebaskan kapasitas kelompok.
+  • Karena tugas merupakan tugas kelompok, maka ada kemungkinan peserta mengerjakan tugasnya tidak sesuai porsinya (bisa jadi dia saja yang mengerjakan atau dia tidak mengerjakan sama sekali, bergantung pada anggota lain)
+  • Peserta yang tidak teliti dalam mengumpulkan berkas, maka langsung diberikan status TERM
+  • Kendala, kekurangan, dan kelebihan lainnya sudah dijelaskan di atas
+
+- UAS Tahap 3
+  • Terdapat perbedaan status antara TERM2, TERM3, dan TUGAS3
+  • Karena penulis berstatus TERM3, maka tahap 3 opsional dan deadlinenya tidak singkat (sampai UAS tahap 5 selesai)
+  • Pembentukan kelompok dilakukan berdasarkan status
+  • Untuk permasalahan kesalahan 0000-mypub.txt, peserta ada yang lupa bahwa berkasnya merupakan secret key, bukan public key.
+  • Beberapa peserta lupa untuk memverifikasi 0000-mypub.txt
+  • Kendala, kekurangan, dan kelebihan lainnya sudah dijelaskan di atas
+
+- UAS Tahap 4
+  • Terdapat peserta yang lupa untuk menghapus namanya di berkas kelompok utama (sebelum pindah membentuk kelompok lain)
+  • Waktu pengerjaan lebih singkat, tidak 24 jam seperti tahap-tahap sebelumnya
+  • Peserta lupa untuk menjalankan 'make clean' sehingga hasil compile masih ada pada folder pengumpulan
+  • Terdapat peserta yang suka absen di detik-detik terakhir
+  • Peserta masih belum memahami mengenai penggunaan sem_destroy()
+  • Kendala, kekurangan, dan kelebihan lainnya sudah dijelaskan di atas
+
+- UAS Tahap 5
+  • Peserta yang TERM pada tahap-tahap sebelumnya baru mengetahui informasi mengenai diharuskan push berkas 0008-DONE-NO-MORE-PUSH.txt.asc sebagai tanda selesai
+  • Kendala, kekurangan, dan kelebihan lainnya sudah dijelaskan di atas
+
+- Pembentukan Kelompok
+  • Pada tahap 2, sistem pembentukan kelompok dilakukan dengan sistem bergiliran sehingga peserta kebingungan menunggu semua kelompok sudah terisi terlebih dahulu
+  • Terdapat perubahan kapasitas anggota kelompok yang sebelumnya tidak ditentukan, menjadi 6 saja. Namun, karena jumlah kelompok tidak dapat menampung semuanya, maka dibebaskan kapasitas kelompok
+  • Peserta lupa menghapus namanya dari berkas kelompok yang awal
+
+- SCELE
+  • Thread SCELE sangat banyak terutama ketika pelaksanaan ujian. Karena banyak yang bertanya dan membuat thread baru, maka informasi penting bisa tenggelam. 
+  • Perlu penulusan forum secara dalam apabila ingin melihat thread-thread sebelumnya
+  • Ada peserta yang bertanya tidak tahu dan belum mencari informasi dan ada juga yang sudah mencari terlebih dahulu sebelumnya sebelum bertanya
+  • Peserta tidak sering mengecek SCELE secara berkala. Penulis mengaku hanya mengecek SCELE 2-3 kali per minggu. Jika ada informasi penting, biasanya mendapat informasi dari peserta lain terlebih dahulu
+  • Ada peserta yang tidak nyaman untuk bertanya langsung, sehingga enggan membuka thread baru
+  • Peserta lebih suka "screenshot" daripada copy paste karena copy paste mengharuskan peserta melakukan formatting ketika mengetik pada forum. "Screenshot" cukup diupload saja. Akan tetapi, walaupun praktis, hal ini menyulitkan peserta lain untuk melakukan replikasi terhadap kode peserta lainnya (harus mengetik manual)
+
+- GitHub
+  • Peserta lebih suka interface web dibanding menggunakan command line
+  • Peserta menghapus commit karena melakukan kesalahan message pada commit, seperti seharusnya "OS201 akunGithub"  • Peserta menghapus commit karena melakukan kesalahan seperti terdapat kesalahan berkas pada commit tersebut, padahal seharusnya cukup membuat commit baru yang berisikan menghapus berkas tersebut
+  • Terdapat peserta yang lebih suka melakukan "git add ." karena lebih praktis padahal seharusnya dicek terlebih dahulu berkas yang ingin dipush
+
+- Problems
+  • Karena ini pertama kalinya UAS dilakukan secara remote, maka ada kemungkinan perbedaan timezone. Sebelumnya, dosen penguji membuat script pengecekan yang berbasis timezone WIB
+  • Peserta melakukan typo penamaan file, seharusnya dicek terlebih dahulu
+  • Peserta mengira hasil enkripsi dapat dipush dengan melakukan copas, namun hal tersebut membuat berkas tidak bisa diverifikasi. Seharusnya push dilakukan menggunakan command line
+  • Peserta tidak mengetahui perekaman script merekam juga behavior copy, paste, penghapusan (backspace) sehingga harus manual jika ingin menghapus atau membuat script dari awal lagi
+  • Sebelum UAS dimulai, terdapat penjelasan status per tahap. Karena tidak adanya penjelasan, peserta kebingungan atas status-status yang dibuat. Ketika UAS berjalan, penamaan status juga berubah.
