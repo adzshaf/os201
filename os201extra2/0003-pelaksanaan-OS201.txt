@@ -1,3 +1,6 @@
+Shafiya Ayu Adzhani / B / 1806235845 / adzshaf
+
+REV03 WED Aug 5   23:20:02 WITA 2020
 REV02 TUE Jul 28  21:10:23 WITA 2020
 REV01 MON Jul 27  23:01:35 WITA 2020
 
@@ -16,27 +19,34 @@ Untuk pembelajaran pada masa PJJ, pertemuan kelas yang biasanya dilakukan 2 kali
 Sebelum UTS:
 - Pelaksanaan pengajaran dilakukan secara tatap muka di kelas
 - Membuat Memo tiap minggunya yang berisi materi pengajaran pada minggu itu dan di scan
-- Melakukan tanya jawab di dalam kelas mengenai demo atau materi lainnya
+- Melakukan tanya jawab di dalam kelas mengenai demo atau materi lainnya 
+- Setiap minggu, peserta diharuskan membuat log di repositori os201 pribadi
 
 Sesudah UTS:
 - Pelaksanaan pengajaran dilakukan secara online dan melalui video yang sudah tertera pada SCELE
 - Melakukan tanya jawab pada forum diskusi SCELE.
+- Setiap minggu, peserta diharuskan membuat log di repositori os201 pribadi
+- Absen dilakukan pada forum SCELE
 
 3. Bandingkan pelaksanaan UTS OS dengan UTS lainnya.
 ===========================================================================
 UTS OS
 - Soal terdiri dari isian dan esai
 - Pelaksanaan ujian berbasis kertas
-- Bila dibandingkan dengan UTS OS tahun lalu, tahun ini lebih banyak soal dengan tipe programming. Selain itu, tidak ada soal tipe B/S atau PG seperti soal - soal UTS tahun lalu
-- Topik beragam, sesuai dengan topik minggu-minggu sebelum UTS
+- Bila dibandingkan dengan UTS OS tahun lalu, tahun ini lebih banyak soal dengan tipe programming. Tidak ada soal tipe Benar-Salah atau Pilihan Ganda seperti soal-soal UTS tahun lalu
+- Topik beragam, sesuai dengan topik minggu-minggu sebelum UTS (Week00-Week05)
+- Terdapat soal teori berdasarkan topik bacaan yang sudah disampaikan dosen pengampu
 
 UTS lainnya
 > UTS Basis Data
 Soal mata kuliah Basis Data terdiri dari pilihan ganda dan esai. Pilihan ganda dikerjakan di SCELE. Untuk esai, mahasiswa mengerjakan dari soal yang sudah diunggah dan menjawabnya di kertas. Kemudian, mahasiswa memfoto dan menggunggah jawaban ke SCELE.
+
 > UTS Analisis Numerik
 Tipe soal adalah essay dan membuat program. Soal essay dikelompokkan dengan topik masing-masing dengan tiap kelompok soal terdiri atas banyak soal. Mahasiswa dibebaskan memilih soal namun diwajibkan untuk mengisi minimal satu dari setiap topik yang diujikan dan diperhatikan agar dapat mencapai 100 poin. Jawaban difoto dan diunggah ke SCELE.
+
 > UTS Advanced Programming
-Terdiri dari pilihan ganda, isian, dan mengedit program melalui GitLab. Pilihan ganda dan isian dilakukan di SCELE. Untuk sesi edit program, terdiri dari 3 sesi waktu.
+Terdiri dari pilihan ganda, isian, dan mengedit program melalui GitLab. Pilihan ganda dan isian dilakukan di SCELE. Untuk soal berupa sesi edit program, terdiri dari 3 sesi waktu.
+
 > UTS Teori Bahasa dan Automata
 Dilakukan melalui Aren. Soal berbentuk uraian. Mahasiswa melakukan scan dan mengunggahnya ke server Aren (aren.cs.ui.ac.id/tba).
 
@@ -45,22 +55,27 @@ Dilakukan melalui Aren. Soal berbentuk uraian. Mahasiswa melakukan scan dan meng
 ===========================================================================
 UAS OS:
 - Dilaksanakan dalam beberapa tahap (PAS0-PAS5). Dimulai tanggal 8 Juni sampai 7 Juli 2020.
-- Setiap tahapnya memiliki waktu yang sangat panjang, dibandingkan dengan UAS mata kuliah lainnya (tidak hanya 2 jam)
-- Pengumuman terkait ujian diberikan melalui grup Whatsapp setiap harinya. Tanya jawab dilakukan di SCELE.
-- Metode pengumpulan yaitu dengan push file diperlukan ke repo GitHub.
+- Setiap tahapnya memiliki waktu yang sangat panjang dibandingkan dengan UAS mata kuliah lainnya yang hanya memakan waktu 2 atau 3 jam saja.
+- Tahap persiapan UAS diberikan waktu sampai 8 Juni 2020. Tahap 1, 2, dan 3 dilaksanakan selama 1 hari. Tahap 4 dilaksanakan selama 12 jam. Tahap 5 dilaksanakan dalam waktu 3 jam. Terdapat perpanjangan waktu deadline untuk mengakomodasi peserta yang mengalami kendala koneksi
+- Pengumuman terkait ujian diberikan melalui grup Whatsapp setiap harinya. Oleh karena itu, diharapkan semua peserta tergabung ke grup WhatsApp Jika terdapat pertanyaan, peserta dapat menanyakan dengan membuat thread baru di SCELE.
+- Metode pengumpulan yaitu dengan push file-file yang sudah diberi ketentuan penamaan dan isinya ke repo GitHub.
 - Pengisian absen dilakukan melalui GitHub.
-- Ada beberapa tahap yang diharuskan untuk dikerjakan secara berkelompok. Pembentukkan kelompok dilakukan melalui GitHub.
+- Ada beberapa tahap (yaitu Tahap 2 dan 3) yang diharuskan untuk dikerjakan secara berkelompok. Pembentukan kelompok dilakukan melalui GitHub. 
 - Soal diunggah di GitHub dan harus di-decrypt terlebih dahulu.
 - Sebagian besar file yang dipush harus dienkripsi terlebih dahulu. Beberapa file juga ada yang diminta untuk ditandatangani secara digital saat enkripsi.  
-- Agar file yang diunggah ke repo tidak dapat dilihat oleh selain orang yang berhak untuk melihat, key enkripsi hanya dimiliki oleh peserta ujian pembuat file dan dosen pengampu ujian
+- Agar file yang diunggah ke repo tidak dapat dilihat oleh selain orang yang berhak untuk melihat (yaitu pembuat file dan dosen pengampu ujian), file dienkripsi dengan subjek kepada peserta ujian pembuat file dan dosen pengampu ujian
+- Pelaksanaan di atas ditujukan untuk peserta OS Kelas A, B, dan C. Untuk peserta OS kelas D dan E, UAS OS dilaksanakan pada tanggal 8 Juni 2020 dengan waktu pengerjaan selama 1 hari dan soal langsung diberikan dan dikerjakan tanpa menggunakan tahap-tahap.  
 
 UAS lainnya:
 > UAS Basis Data
-Tipe soal adalah pilihan ganda sebanyak 60 soal dan essay. Dilaksanakan dengan total 3 jam pengerjaan pada SCELE. Untuk soal pilihan ganda, nilai dapat langsung diketahui setelah submit.
+Tipe soal adalah pilihan ganda sebanyak 60 soal dan essay. Dilaksanakan dengan total 3 jam pengerjaan pada SCELE. Untuk soal pilihan ganda, nilai dapat langsung diketahui setelah submit. Essay dikerjakan dengan mengisi pada kotak yang tersedia atau menjawab pada kertas, difoto lalu diunggah ke tempat pengunggahan di SCELE. Pengerjaan essay dibagi dalam beberapa sesi waktu. Setiap sesi waktu diberi waktu untuk beristirahat selama 19 menit.
+
 > UAS Analisis Numerik
-Tipe soal adalah essay dan membuat program. Soal essay dikelompokkan dengan topik masing-masing dengan tiap kelompok soal terdiri atas banyak soal. Mahasiswa bebas memilih soal namun diusahakan total poin yang diperoleh adalah 100. Soal dikerjakan dalam waktu 3 jam.
+Tipe soal adalah essay dan membuat program. Soal essay dikelompokkan dengan topik masing-masing dengan tiap kelompok soal terdiri atas banyak soal. Mahasiswa bebas memilih soal namun diusahakan total poin yang diperoleh adalah 100. Soal dikerjakan dalam waktu 3 jam. Soal essay dikerjakan pada lembar kertas, difoto, lalu diunggah ke SCELE. Pembuatan program menggunakan bahasa Python, Mathlab atau Octave dan diberikan penjelasan pada jawaban di kertas. Seluruh lembar jawaban serta program digabung menjadi zip dan diunggah ke SCELE.
+
 > UAS Teori Bahasa dan Automata
-Pengerjaan menggunakan server Aren. Soal pembuatan mesin (PDA atau Turing Machine) akan diterima oleh penilai otomatis yang hasilnya akan keluar setelah ujian selesai, sedangkan untuk soalessay dikerjakan dengan mengunggah hasil scan ke tempat yang sudah disediakan.
+Pengerjaan menggunakan server Aren. Soal pembuatan mesin (PDA atau Turing Machine) akan diterima oleh penilai otomatis yang hasilnya akan keluar setelah ujian selesai, sedangkan untuk soal essay dikerjakan dengan menjawab di lembar jawaban yang sudah tersedia beberapa jam sebelum ujian dan mengunggah hasil scan dari lembar jawaban tersebut ke tempat yang sudah disediakan.
+
 > UAS Advanced Programming
 Tipe soal adalah pilihan ganda, essay, dan melengkapi program. Ketiga tiganya dilaksanakan dengan menggunakan SCELE dengan total waktu pengerjaan 3 jam.
 

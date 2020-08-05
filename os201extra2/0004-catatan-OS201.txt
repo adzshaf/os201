@@ -1,3 +1,6 @@
+Shafiya Ayu Adzhani / B / 1806235845 / adzshaf
+
+REV08 WED Aug 5   23:45:02 WITA 2020
 REV07 WED Aug 5   14:41:00 WITA 2020
 REV06 WED Aug 5   05:24:01 WITA 2020
 REV05 TUE Aug 4   23:12:43 WITA 2020
@@ -8,6 +11,8 @@ REV01 TUE Jul 28  22:01:35 WITA 2020
 
 1. Buat catatan tambahan untuk pelaksanaan
 ===========================================
+Catatan dibuat berdasarkan hasil survey oleh peserta os201extra2 dan diisi oleh peserta OS kelas A, B, dan C
+
 a. Persiapan UAS
    > Kendala:
 	- Mahasiswa tidak tahu cara melakukan beberapa perintah dari soal
@@ -23,6 +28,8 @@ a. Persiapan UAS
 	- Tidak tahu bahwa copy paste ke GitHub bisa mengakibatkan error
 	- Tidak dijelaskan tujuan persiapan dan gambaran pelaksanaan UAS
 
+  Dapat disimpulkan bahwa pengerjaan tahap ini cukup mudah. Pelaksanaan waktu yang panjang juga memudahkan peserta untuk bertanya jika mengalami kesulitan. Penjelasan pada pengerjaan soal juga sudah detail.
+
 b. Tahap 1
    > Kendala:
 	- Masih belum terbiasa menggunakan terminal pada linux sehingga menghambat pengerjaan
@@ -33,6 +40,7 @@ b. Tahap 1
 	- Menjadi tahu bagaimana mengatur GitHub Pages dan membuat URL baru
    > Kekurangan:
 	- Kurang penjelasan mengenai soal, seperti maksud dari SEQNO dan SUMNO.
+   Dapat disimpulkan bahwa dari tahap ini, peserta belajar membuat GitHUb Pages dan script yang nantinya berguna dalam pengerjaan tahap selanjutnya. Dari hasil tahap 1, peserta juga dapat mempelajari kesalahan-kesalahan kecil salah penamaan file, copy-paste langsung ke web GitHub akan berakibat tidak lanjut ke tahap-tahap berikutnya. Oleh karena itu, peserta menjadi familiar dengan sistem ujian dan lebih berhati-hati.
 
 c. Tahap 2
    > Kendala:
@@ -42,8 +50,10 @@ c. Tahap 2
 	- Menjadi lebih paham bagaimana semafor bekerja untuk menghindari race condition dalam mengakses memori yang sama
 	- Menjadi lebih paham pengunaan semafor biasa dan semafor untuk mutex
 	- Menjadi tahu bagaimana memetakan sebuah file ke memory di C dengan mmap
+        - Tugas dilakukan secara berkelompok sehingga beban menjadi berkurang
    > Kekurangan:
 	- Penjelasan soal kurang jelas. Lebih jelas jika mengikuti contoh program
+   Dapat disimpulkan bahwa tahap 2 memiliki tingkat kesulitan lebih tinggi dibanding tahap sebelumnya. Namun, dengan adanya pembagian kelompok, tugas dapat dilakukan dengan lebih mudah secara bersama-sama. Peserta yang kurang memahami materi dapat membaca-baca lagi mengenai materi dari Week 06 - Week 10.
 
 d. Tahap 3
    > Kendala:
@@ -62,6 +72,8 @@ d. Tahap 3
 	- Hanya ada satu file yang bisa diedit sehingga sulit dalam pembagian tugas dengan anggota lain
 	- Keterangan soal mengenai soal dapat dikerjakan sesuai kreativitas masing-masing menimbulkan perdebatan
 
+   Dapat disimpulkan bahwa tingkat kesulitan pada tahap 3 lebih rendah dibanding tahap 2. Dengan ditambahkannya penamaan kontributor pada kode tugas tahap 3 mengurangi kendala adanya free rider. Namun, bagi beberapa orang termasuk saya, masih ada yang tidak enak jika tidak memasukkan nama rekan kelompok pada nama kontributor.
+
 e. Tahap 4
    > Kendala:
 	- Beberapa mahasiswa belum mengerti mengenai materi yang ditanyakan
@@ -69,6 +81,10 @@ e. Tahap 4
 	- File-file di folder uas-pribadi dan uas-bersama cukup membingungkan
    > Kelebihan:
 	- Menjadi mengerti cara menggunakan synchronous semafor
+        - Terdapat method yang bisa diambil dan dimodifikasi dari tahap sebelumnya
+	- Tugas dikerjakan secara berkelompok
+
+   Menurut responden, waktu pengerjaan selama satu hari cukup untuk mengecek revisi-revisi yang sudah diberikan.
 
 f. Tahap 5
    > Kendala:
@@ -84,6 +100,22 @@ f. Tahap 5
 	- Sumber belajar hanya materi
 	- Tugas tidak lagi dikerjakan secara berkelompok
 
+   Dari pernyataan responden, walaupun mengalami kendala dalam pengerjaan, dirasakan bahwa akan lebih mudah mengerti jika sudah memahami mengenai FUSE. Menurut saya, seharusnya dimasukkan materi mengenai implementasi FUSE pada demo. Oleh karena itu, peserta tidak hanya paham FUSE secara teori namun juga dipraktekkan.
+
+  Kelebihan pelaksanaan UAS OS:
+  - Jangka waktu yang panjang mengakomodir peserta yang memiliki koneksi internet terbatas. Menurut saya, dari segi waktu, OS lebih baik dibanding ujian lainnya yang memakan waktu 2 atau 3 jam saja dengan soal yang sangat banyak dan tidak menmungkinkan untuk dikerjakan dalam waktu yang singkat.
+  - Pengerjaan secara kelompok memudahkan peserta untuk memahami dan menjawab soal
+
+  Kritik terhadap pelaksanaan UAS OS:
+  - Waktu pengerjaan UAS OS terlalu lama. Peserta yang memiliki keperluan lain terbebani dengan jangka waktu UAS yang lama
+  - Usaha untuk mencegah adanya free rider belum sepenuhnya berhasil. Beberapa peserta seperti saya tidak enak jika tidak memasukkan nama anggota lain pada nama kontributor.
+  - Karena setiap peserta pada suatu kelompok mengumpulkan filenya masing-masing, maka ada kemungkinan beberapa peserta dari kelompok itu tidak lulus suatu tahap jika terdapat kesalahan pada file/kode. Menurut saya, ini kurang fair jika ada free rider yang malah lulus ke tahap sebelumnya, namun yang benar-benar mengerjakan malah tidak lulus karena salah pada penamaan file/kode.
+  
+  Saran terhadap pelaksanaan UAS OS:
+  - Jumlah tahap bisa dipotong 
+  - Untuk mencegah adanya free rider, bisa dibuat repository/folder dimana anggota kelompok wajib memberikan kontribusi dengan commit. Karena Git dengan baik merekam commit dan siapa membuatnya, maka dapat ditentukan mana yang berkontribusi atau tidak
+  - Untuk membuat fair pengerjaan tugas kelompok, seharusnya dibuat satu repository/folder untuk satu kelompok. Penilaian anggota kelompok dapat dilihat dari kontribusi commit yang diberikan. Hal ini membuat semua anggota bisa lulus dengan syarat memenuhi ketentuan, kecuali ada anggota yang tidak berkontribusi sama sekali.
+
 2.  Berikan penjelasan (dugaan) berikut ini:
 ==================================================================
 a. Scripting
@@ -94,42 +126,43 @@ a. Scripting
   dan untuk menyelesaikan script dapat menggunakan command "exit" dan hasil script sudah tersimpan pada file baru tadi.
 
 b. FUSE
-   FUSE (Filesystem in Userspace) merupakan suatu software interface pada UNIX. Fitur paling penting dari FUSE adalah FUSE memperbolehkan non-privileged user untuk melakukan mount dengan aman. Biasanya FUSE digunakan untuk membuat virtual file system. Untuk membuat FUSE ada 3 hal yang harus dibuat, yaitu kernel side module, libfuse, dan aplikasinya
-
-   Untuk mengimplementasikan file system kita harus menulis program terlebih dahulu yang akan berfungsi untuk melakukan mount pada file system yang baru, merespon jika ada operasi read/write/stat/ dan program ini juga akan akan tertaut dengan libfuse. Ketika filesyetem berhasil di-mount, handler akan teregister dengan kernel dan meneruskan operasi read/write/stat/ kepada handler untuk dilakukan respon terhadap operasi tersebut.
-
+   FUSE (Filesystem in Userspace) merupakan suatu software interface pada UNIX. Fitur paling penting dari FUSE adalah FUSE memperbolehkan non-privileged user untuk melakukan mount dengan aman. Biasanya FUSE digunakan untuk membuat virtual file system. Terdapat 3 hal yang harus dibuat dalam pembuatan FUSE, yaitu kernel side module, libfuse, dan aplikasinya. Untuk mengimplementasikan file system, harus menulis program terlebih dahulu yang akan berfungsi untuk melakukan mount pada file system yang baru, merespon jika ada operasi read/write/stat/ dan program ini juga akan akan tertaut dengan libfuse. Ketika filesyetem berhasil di-mount, handler akan teregister dengan kernel dan meneruskan operasi read/write/stat/ kepada handler untuk dilakukan respon terhadap operasi tersebut.
 c. Git
-   Git adalah version control system yang digunakan para developer untuk mengembangkan software secara bersama-bersama. Fungsi utama git yaitu mengatur versi dari source code program dengan memberi tanda baris dan kode mana yang ditambah atau diganti.
-   Perintah-perintah dasar git:
-   - Git init : untuk membuat repository pada file lokal yang nantinya ada folder .git
-   - Git status : untuk mengetahui status dari repository lokal
-   - Git add : menambahkan file baru pada repository yang dipilih
-   - Git commit : untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository.
-   - Git push : untuk mengirimkan perubahan file setelah di commit ke remote repository.
-   - Git branch : melihat seluruh branch yang ada pada repository
-   - Git checkout : menukar branch yang aktif dengan branchyang dipilih
-   - GIt merge : untuk menggabungkan branch yang aktif dan branch yang dipilih
-   - Git clone : membuat Salinan repository lokal
+   Git adalah sistem version control yang digunakan para developer untuk mengembangkan software secara bersama-bersama. Fungsi utama git yaitu mengatur versi dari source code program dengan memberi tanda baris dan kode mana yang ditambah atau diganti. Contoh lain dari version control: Mercurial, SVN
+   - Git init: untuk membuat repository pada file lokal yang nantinya ada folder .git
+   - Git status: untuk mengetahui status dari repository lokal (apakah ada perubahan dari commit terakhir, file-file yang sudah dicommit)
+   - Git add: menambahkan file yang mengalami perubahan untuk dimasukkan ke commit
+   - Git commit : untuk menyimpan perubahan yang sudah ditambahkan dari `git add`
+   - Git push: untuk mengirimkan perubahan file setelah di-commit ke remote repository.
+   - Git branch: melihat seluruh branch yang ada pada repositori
+   - Git checkout: menukar branch yang dikerjakan ke branch lain
+   - GIt merge: untuk menggabungkan branch yang aktif dan branch yang dipilih
+   - Git clone: membuat salinan dari repository remote ke lokal
 
 d. GitHub
-   GitHub adalah sebuah aplikasi berbasis website dengan Version Control System (VCS) yang menyediakan layanan untuk menyimpan repository dengan gratis. Repository merupakan tempat yang dapat digunakan untuk menyimpan berbagai file berupa source code. Dengan GitHub, dapat dilakukan kolaborasi dalam mengerjakan project tertentu agar dapat terus melakukan update secara rutin, termasuk melacak dan menyimpan perubahan-perubahan yang terjadi dalam project tersebut. Aplikasi ini termasuk sangat populer dan banyak digunakan termasuk oleh perusahaan-perusahaan besar skala dunia seperti Facebook, Google, dan Twitter.
-
+   GitHub adalah sebuah aplikasi berbasis web dengan Version Control System (VCS) yang menyediakan layanan untuk menyimpan repository dengan gratis. GitHub menggunakan sistem version control Git.  Repositori merupakan tempat yang dapat digunakan untuk menyimpan berbagai source code. Dengan GitHub, pengguna dapat melakukan kolaborasi dalam mengerjakan proyek tertentu secara rutin, termasuk melacak dan menyimpan perubahan-perubahan yang terjadi dalam project tersebut. GitHub digunakan perusahaan-perusahaan besar seperti Facebook, Google, dan Twitter. GitHub menyediakan layanan untuk menyimpan repositori yang dapat dilihat publik atau privat (hanya dapat dilihat orang-orang tertentu). Dengan adanya GitHub, pengguna dapat berkontribusi ke proyek Open Source dengan membuat submisi issue (jika terdapat bug pada proyek), pull request (perubahan kode untuk menyelesaikan issue), dan berdiskusi dengan pengguna-pengguna lainnya.
+ 
 e. GitHub Pages
-   Github Pages adalah fasilitas hosting web statis (HTML, CSS, JavaScript) yang diberikan secara gratis dengan subdomain .github.io. Github Pages sangat berguna untuk membuat dokumentasi, misalnya untuk suatu repo karena Github Pages dapat mempublikasikan website dari repo kita dengan mudah dan gratis Github Pages.
+   Github Pages adalah fasilitas hosting web statis (HTML, CSS, JavaScript) yang diberikan secara gratis dengan subdomain .github.io. Setiap user mendapatkan akses untuk memiliki satu subdomain [username].github.io. Jika pengguna ingin membuat web statis pada suatu project, maka webnya dipublish dengan nama [username].github.io/[nama-project].  
    Untuk mempublikasikan halaman web di Github Pages dapat dilakukan dengan beberapa cara:
    1. Github page dari Root repo
    2. Github page di folder
    3. Github page di branch gh-page
 
 f. GnuPG
-   GnuPG adalah suatu software yang dipakai untuk melakukan proses enkripsi data, dekripsi data, dan penandatanganan digital untuk selanjutnya dilakukan proses pertukaran data antar perangkat. GnuPG juga dikenal sebagai GPG yaitu suatu command line yang dapat dijalankan melalui aplikasi Terminal di setiap sistem operasi dengan fitur easy integration dengan aplikasi lainnya. Enkripsi dengan GPG ini sudah mengimplementasikan standar yang dijelaskan dalam RFC4880 (dikenal juga dengan standar PGP). GPG juga dilengkapi dengan fungsi manajemen kunci keamanan seperti pembuatan kunci, penyuntingan kunci, dan penghapusan kunci keamanan. Dengan model enkripsi yang digunakan pada GPG, seseorang pasti mempunyai sepasang kunci keamanan yaitu Private Key dan Public Key. Private Key adalah kunci enkripsi yang hanya boleh diakses oleh pemilik kunci, sedangkan public key sebisa mungkin harus disebarkan seluas-luasnya.
-
+   GnuPG adalah suatu software yang dipakai untuk melakukan proses enkripsi data, dekripsi data, dan penandatanganan digital untuk selanjutnya dilakukan proses pertukaran data antar perangkat. Enkripsi dengan GPG ini sudah mengimplementasikan standar yang dijelaskan dalam RFC4880 (dikenal juga dengan standar PGP). GPG juga dilengkapi dengan fungsi manajemen kunci keamanan seperti pembuatan kunci, penyuntingan kunci, dan penghapusan kunci keamanan. Setiap kunci yang digenerate pasti mempunyai sepasang kunci (keypair) keamanan yaitu Private Key dan Public Key. Private Key adalah kunci enkripsi yang hanya boleh diakses oleh pemilik kunci, sedangkan public key sebisa mungkin harus disebarkan seluas-luasnya.
+   Fungsi private key:
+   • Menambahkan tanda tangan pada file yang dikirim. Jika ada tandatangan yang dibuat dengan private key, maka dipastikan file tersebut berasal dari pemilik private key.
+   • Membaca file/pesan yang dienkripsi (ditujukan) dengan pasangan public keynya. Jika seseorang mengenkripsi pesan ke suatu public key, maka hanya yang punya private key dari public key itu yang bisa membacanya.
+   Fungsi public key:
+   • Mengenkripsi file yang ditujukan untuk pemilik private key
+   • Memverifikasi signature yang sudah dibuat pada suatu pesan/file. Jika suatu pesan/file sudah ditandangani dengan private key, maka dengan public key yang cocok, dipastikan bahwa file tersebut benar-benar berasal dari pemilik keypair tersebut.
 
 g. SHA1SUM
-   SHA1SUM adalah program/perintah yang menghitung dan memverifikasi hash yang menggunakan SHA1 (Secure Hash Algorithm 1). Program ini sudah terpasang pada sebagian besar sistem operasi yang menggunakan Linux. Pada UAS OS genap 2020, file “SHA1SUM” digunakan sebagai berkas yang menyimpan hash berkas-berkas yang diupload di GitHub. Melalui berkas tersebut, kita bisa mengetahui apakah file tersebut adalah file original atau bukan karena jika ada berkas yang diubah sedikitpun (termasuk waktu pembuatan), file tersebut akan menerima hash yang berbeda.
+   SHA1SUM adalah program yang menghitung dan memverifikasi hash yang menggunakan SHA1 (Secure Hash Algorithm 1). Program ini sudah terpasang pada sebagian besar sistem operasi yang menggunakan Linux. Pada UAS OS, file “SHA1SUM” digunakan sebagai berkas yang menyimpan hash berkas-berkas yang diupload di GitHub. Melalui berkas tersebut, kita bisa mengetahui apakah file tersebut adalah file original atau bukan karena jika ada berkas yang diubah sedikitpun (termasuk waktu pembuatan), file tersebut akan menerima hash yang berbeda. Jika seseorang mengubah file pada file-file yang disebutkan pada SHA1SUM, maka akan muncul ketidakcocokan antara hash di file SHA1SUM dengan berkas yang diubah. Oleh karena itu, setiap mengubah file yang disebutkan pada SHA1SUM, maka file SHA1SUM harus kembali digenerate.
 
 h. SHA1SUM.asc
-   Format “.asc” sendiri merupakan format untuk berkas ASCII lapis baja yang digunakan oleh suatu software yang dipakai untuk melakukan proses enkripsi data seperti PGP atau GnuPG. File tersebut berisi pesan yang ditandatangani secara digital dan dapat menyimpan informasi tertulis teks biasa, serta informasi biner yang disandikan sebagai teks. File ASC juga menyertakan kunci sebagai teks yang ditandatangani jelas, yang dapat diverifikasi menggunakan metode otentikasi. Oleh karena itu SHA1SUM.asc merupakan berkas dimana berisi sebuah hasil enkripsi SHA1SUM yang nantinya dapat diverifikasi dan didekripsi (oleh yang berhak) untuk melihat informasi asli yang ada.
+   Format “.asc” merupakan format untuk berkas ASCII yang digunakan oleh suatu software yang dipakai untuk melakukan proses enkripsi data seperti PGP atau GnuPG. File tersebut berisi pesan yang ditandatangani secara digital dan dapat menyimpan informasi tertulis teks biasa, serta informasi biner yang disandikan sebagai teks. File ASC juga menyertakan kunci sebagai teks yang ditandatangani jelas, yang dapat diverifikasi. Oleh karena itu, SHA1SUM.asc merupakan berkas dimana berisi sebuah hasil enkripsi SHA1SUM yang nantinya dapat diverifikasi dan didekripsi (oleh pihak yang ditujukan ketika mengenkripsi) untuk melihat informasi asli yang ada.
 
 3. Bahas dari sudut pandang peserta OS201, berkas berikut ini:
 https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
@@ -155,7 +188,7 @@ c. Problem
   • Peserta tidak terlalu sering mengecek grup, sehingga bisa terlewatkan informasi penting ataupun dokumentasi pengerjaan soal ujian sebelumnya yang biasa dibahas di kelas 
 
 - W00 - W05
-  Peserta sungkan untuk bertanya mengenai topik pada minggu itu. Peserta akan mengalami kesulitan jika tidak belajar sebelum masuk kelas.
+  Peserta sungkan untuk bertanya mengenai topik pada minggu itu. Peserta akan mengalami kesulitan jika tidak belajar sebelum masuk kelas. Peserta sebaiknya belajar dengan melakukan demo dan membuat memo sebelum masuk kelas.
 
 - UTS
   UTS pada tahun ini lebih banyak programmingnya dibandingkan teori, sehingga perlu dipersiapkan dalam memahami dan membuat kodingan. Selain itu, terdapat juga soal teori mengenai bacaan yang sudah dilampirkan dosen pengampu sebelumnya.
@@ -164,9 +197,10 @@ c. Problem
   • Peserta harus belajar lebih keras lagi mengingat tidak dapat dilakukan pembelajaran tatap muka. 
   • Peserta terkadang tidak disiplin dalam mempelajari OS sesuai bobot SKS-nya.
   • Terkadang peserta terlewatkan dalam mengisi forum. Harus diberitahu terlebih dahulu oleh peserta lain.
+  • Menurut saya, perlu ada checkpoint tugas untuk memahami sampai mana pemahaman peserta mengenai suatu topik. Dengan adanya checkpoint tugas, peserta dapat memahami materi lebih baik dan terpacu untuk belajar lebih giat.
 
 - YouTube
-  Materi dapat dimengerti dengan mudah, namun kurang banyak contoh yang diberikan.
+  Materi dapat dimengerti dengan mudah, namun kurang banyak contoh demo yang diberikan.
 
 - GitHub Page
   Peserta kebanyakan belum mengetahui tentang pemakaian GitHub Page. Oleh karena itu, harus bolak-balik membaca dokumentasi. Selain itu, karena secara default GitHub Page menggunakan Jekyll, peserta juga harus memahami mengenai penggunaan Jekyll.
