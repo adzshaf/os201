@@ -1,5 +1,6 @@
 Shafiya Ayu Adzhani / B / 1806235845 / adzshaf
 
+REV04 THU Aug 6   23:25:12 WITA 2020
 REV03 WED Aug 5   23:20:02 WITA 2020
 REV02 TUE Jul 28  21:10:23 WITA 2020
 REV01 MON Jul 27  23:01:35 WITA 2020
@@ -79,4 +80,52 @@ Pengerjaan menggunakan server Aren. Soal pembuatan mesin (PDA atau Turing Machin
 > UAS Advanced Programming
 Tipe soal adalah pilihan ganda, essay, dan melengkapi program. Ketiga tiganya dilaksanakan dengan menggunakan SCELE dengan total waktu pengerjaan 3 jam.
 
+5. Bandingkan pelaksanaan UTS dan UAS lainnya
+=========================================================================
+- Mata kuliah OS
+UTS OS dilaksanakan berbasis kertas. UAS OS dilaksanakan menggunakan GitHub sebagai tempat mendapatkan soal dan mengumpulkan jawaban
 
+- Mata kuliah Basis Data
+  • UTS Basis Data dilaksanakan dengan menjawab soal pilihan ganda di SCELE dan mengisi essay di lembar kertas lalu mengunggah ke SCELE. UAS dilaksanakan dengan sistem yang sama. Waktu pengerjaan 3 jam (belum termasuk waktu istirahat)
+  • Untuk mencegah kecurangan, komposisi soal pada UAS dipersulit dengan menambah kuantitas soal pilihan ganda serta meningkatkan tingkat kesulitan soal.
+
+- Mata kuliah Analisis Numerik
+  • UTS Analisis Numerik dilaksanakan dengan menjawab soal essay di lembar kertas dan mengunggah jawaban ke SCELE. Terdapat soal pemrograman. Kode jawaban dikumpulkan serta diberi penjelasan di lembar jawaban. UAS juga menerapkan sistem yang sama. Waktu pengerjaan 3 jam
+  • Untuk mencegah kekurangan, tingkat kesulitan UTS dan UAS ditingkatkan. Soal UTS dan UAS lebih sulit dibandingkan soal ujian tahun sebelumnya. Selain itu, ditambahkan soal pemrograman yang sebelumnya tidak ada di ujian tahun sebelumnya. 
+
+- Mata kuliah Teori Bahasa dan Automata
+  • UTS TBA dilaksanakan dengan menjawab soal di lembar jawaban yang disediakan, kemudian scan lembar jawaban dan diunggah ke Aren (aren.cs.ui.ac.id/tba). UAS juga dilaksanakan dengan sistem yang sama. Waktu pengerjaan 3 jam
+  • Tambahan untuk UAS, karena terdapat soal pembuatan mesin, maka JFlap mesin diunggah ke grader otomatis yang sudah disediakan.
+
+- Mata kuliah Advanced Programming
+  • UTS terdiri dari pilihan ganda, isian, dan mengedit program. Edit program dilakukan di GitLab. Untuk UAS, hanya terdiri dari pilihan ganda dan isian. Waktu pengerjaan 3 jam.
+  • Untuk mencegah kecurangan, pada soal UAS, ditambahkan soal mengenai proyek tugas akhir masing-masing kelompok. Oleh karena itu, tidak mungkin ada jawaban yang sama.
+
+Kesimpulan: Selain mata kuliah OS, tidak ada perbedaan mengenai pelaksanaan UTS dan UAS mata kuliah. Secara garis besar, pelaksanaan ujian adalah mengerjakan soal dan mengunggah jawaban di SCELE dengan batasan waktu yang sama seperti ujian berbasis kertas.
+
+6. Bandingkan pelaksanaan pengajaran OS dan mata kuliah lainnya
+=======================================================================
+- Mata kuliah OS
+  Sudah dijabarkan di poin 1
+
+- Mata kuliah Basis Data
+  • Sebelum UTS, pengajaran dilakukan tatap muka. Mahasiswa diharapkan untuk membaca materi sebelum masuk kelas. Terdapat sesi tutorial ketika sudah memasuki materi SQL.
+  • Setelah UTS, setiap jadwal mata kuliah Basdat, dibuka forum baru membahas soal latihan sesuai materi slide. Peserta diwajibkan untuk aktif di forum sebagai tambahan nilai partisipasi. Jika mahasiswa merasa kesulitan dengan materi, maka dosen mengadakan pengajaran secara sinkronus melalui Zoom.
+
+- Mata kuliah Analisis Numerik
+  • Sebelum UTS, pengajaran dilakukan tatap muka. Mahasiswa diharapkan untuk membaca materi sebelum masuk kelas. 
+  • Setelah UAS, setiap Senin pagi, diadakan pengajaran secara sinkronus melalui Google Meet. Sesi Google Meet akan direkam. Jika mahasiswa berkeinginan untuk mendapat tambahan materi, dibuka pengajaran sinkronus pada hari Rabu. Mahasiswa tidak diwajibkan mengikuti sesi sinkronus karena bisa jadi ada yang mengalami kendala akses internet.
+
+- Mata kuliah Advanced Programming
+  • Sebelum UTS, pengajaran dilakukan tatap muka. Mahasiswa diharapkan untuk membaca materi sebelum masuk kelas.
+  • Setelah UAS, pengajaran dilakukan secara sinkronus melalui Google Meet. Setiap Selasa, kelompok yang sudah ditentukan dosen melakukan presentasi mengenai progress tugas akhir. Setiap Kamis, dosen akan mengajarkan materi baru. Mahasiswa diwajibkan untuk aktif di forum setiap Selasa dan Kamis (jadwal kelas) sebagai bentuk kehadiran.
+
+- Mata kuliah Teori Bahasa dan Automata
+  • Sebelum UTS, pengajaran dilakukan tatap muka. Mahasiswa diharapkan untuk membaca materi sebelum masuk kelas.
+  • Setelah UAS, pengajaran dilakukan secara asinkronus. Dosen mengunggah slide beserta rekaman suara ke SCELE. Untuk mencatat kehadiran, mahasiswa diwajibkan mengisi forum kehadiran pada jangka waktu yang sudah ditentukan.
+
+7. Saran pelaksanaan pengajaran OS
+=====================================================================-
+Pengajaran OS bisa menggunakan Zoom sebagai sarana pengajaran sinkronus. Dengan pengajaran sinkronus, mahasiswa dan dosen dapat melakukan tanya jawab secara langsung mengenai demo dan materi. Pengajaran melalui Zoom juga dapat direkam sehingga mahasiswa bisa mengaksesnya kapan saja.
+
+Selain itu, bisa juga sebelum PJJ dimulai, diberitahukan ke mahasiswa jika mahasiswa aktif di forum SCELE, dihitung sebagai poin keaktifan/absensi. Dengan adanya insentif ini, maka mahasiswa lebih semangat untuk bertanya di forum SCELE..
